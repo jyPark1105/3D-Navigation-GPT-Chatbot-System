@@ -14,15 +14,17 @@
   - Frontend 'React' works on Node.js
 
 # Directory Tree
-📂 capstone3D (Unity root project)
- ┣ 📂 Assets
- ┣ 📂 Packages
- ┣ 📂 ProjectSettings
- ┣ 📂 UserSettings
- ┣ 📄 capstone3D.sln
- ┣ 📄 Other unity files
 
- 📂 capsBack (Fullstack root folder)
- ┣ 📂 my-backend              # Django REST Framework
- ┣ 📂 my-frontend             # React with Node.js
- ┗ 📄 .env                    # OpenAI_API_KEY & FIREBASE_KEY(Must be hidden your keys)
+📂 capstone3D (Unity root project)  
+ ┣ 📂 Assets  
+ ┣ 📂 Packages  
+ ┣ 📂 ProjectSettings  
+ ┣ 📂 UserSettings  
+ ┣ 📄 capstone3D.sln  
+ ┣ 📄 Other unity files  
+
+📂 capsBack (Fullstack root folder)  
+ ┣ 📂 my-backend              # Django REST Framework  
+ ┣ 📂 my-frontend             # React with Node.js  
+ ┗ 📄 .env                    # OpenAI_API_KEY & FIREBASE_KEY (Must be hidden your keys)  
+
