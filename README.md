@@ -15,10 +15,10 @@
 
 # Directory Tree
 
-📂 capstone3D (Unity root project)
+📂 capstone3D (Unity root project)  
  ┣ 📂 Assets  
  ┣ 📂 Packages  
- ┣ 📂 ProjectSettings
+ ┣ 📂 ProjectSettings  
  ┣ 📂 UserSettings  
  ┣ 📄 capstone3D.sln  
  ┣ 📄 Other unity files  
