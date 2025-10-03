@@ -26,5 +26,5 @@
 📂 capsBack (Fullstack root folder)  
  ┣ 📂 my-backend              # Django REST Framework  
  ┣ 📂 my-frontend             # React with Node.js  
- ┗ 📄 .env                    # OpenAI_API_KEY & FIREBASE_KEY (Must be hidden your keys)  
+ ┗ 📄 .env                    # OpenAI_API_KEY & FIREBASE_KEY (Your keys must be hidden.) 
 
