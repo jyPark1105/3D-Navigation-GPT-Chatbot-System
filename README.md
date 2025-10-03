@@ -15,16 +15,16 @@
 
 # Directory Tree
 
-📂 capstone3D (Unity root project)  
- ┣ 📂 Assets  
+📂 **capstone3D** (Unity root project)  
+ ┣ 📂 **Assets**  
  ┣ 📂 Packages  
- ┣ 📂 ProjectSettings  
+ ┣ 📂 **ProjectSettings**  
  ┣ 📂 UserSettings  
  ┣ 📄 capstone3D.sln  
  ┗ 📄 Other unity files  
 
-📂 capsBack (Fullstack root folder)  
- ┣ 📂 my-backend              # Django REST Framework  
+📂 **capsBack** (Fullstack root folder)  
+ ┣ 📂 **my-backend**              # Django REST Framework  
     ┣━━ 📄 firebase_key.json  # Enter your own unique key value obtained from Firebase  
- ┣ 📂 my-frontend             # React with Node.js  
- ┗ 📄 .env                    # Never expose your OpenAI API key
+ ┣ 📂 **my-frontend**             # React with Node.js  
+ ┗ 📄 **.env**                    # Never expose your OpenAI API key
